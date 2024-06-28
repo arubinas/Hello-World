@@ -1,2 +1,2 @@
-# Hello-World
-This repository is for practicing the GitHub Flow.
+## About me
+Hi, I'm Mona. You might recognize me as GitHub's mascot.
